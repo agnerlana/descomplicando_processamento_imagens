@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name= "dio_processador_imagens",
-    version= "0.0.1",
+    version= "0.0.2",
     author= "Agner_Lana",
     description="Pacote simples de processamento de imagens",
     long_description= descricao_pagina,
